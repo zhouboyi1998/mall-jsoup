@@ -1,8 +1,8 @@
-<h1 align="center">🏪 mall-cloud</h1>
+<h1 align="center">🏪 mall-jsoup</h1>
 
 <p align="center">
-<a target="_blank" href="https://github.com/zhouboyi1998/mall-cloud"> 
-<img src="https://img.shields.io/github/stars/zhouboyi1998/mall-cloud?logo=github">
+<a target="_blank" href="https://github.com/zhouboyi1998/mall-jsoup"> 
+<img src="https://img.shields.io/github/stars/zhouboyi1998/mall-jsoup?logo=github">
 </a>
 <a target="_blank" href="https://opensource.org/licenses/MIT"> 
 <img src="https://img.shields.io/badge/license-MIT-red"> 
